@@ -1,2 +1,1 @@
-<h1>HEY</h1>
-<h2>Bızzık</h2>
+<h1>Fatigue Detection Project Web Page</h1>
